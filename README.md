@@ -1,0 +1,3 @@
+# DeASCIIfy Turkish Letters
+
+Converts some un-accented (e.g. due to a non-Turkish keyboard layout) [Turkish letters](https://en.wikipedia.org/wiki/Turkish_alphabet) to their basic Latin counterparts <span class="letters">(<mark>C -> Ç</mark>, <mark>G -> Ğ</mark>, <mark>i -> ı</mark>, <mark>I -> İ</mark>, <mark>O -> Ö</mark>, <mark>S -> Ş</mark>, and <mark>U -> Ü</mark>)</span> based on certain rules. Uses [f/deasciifier](https://github.com/f/deasciifier), which is based on [meacer/deasciifier](https://github.com/meacer/deasciifier), which is based on the original work of [denizyuret/deasciify](https://github.com/denizyuret/deasciify).
